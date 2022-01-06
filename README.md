@@ -11,4 +11,5 @@
 The water_potability.csv file contains water quality metrics for 3276 different water bodies.
 
 # Machine Learning Model
-A supervised machine learning model that predicts .... from feature varaibles including ....
+
+we are going to implement a water quality prediction using machine learning techniques. We will use the decision tree classifier model our model predicts that the water is safe to drink or not using parameters like Ph value, conductivity, hardness, etc. 
