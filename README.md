@@ -3,10 +3,10 @@ Environmental sustainability is one of the most pressing issues of our century. 
 
 ## Team Communication Protocols
 Although each member will contribute to the overall flow of the machine learning exercise, our team assigned focused roles for the smooth completion of this project.
-Elizaveta L. : Presentation and Github
-Jessica Z. : Github and Database
-Mohamad K.: Database and Machine Learning
-Beruchya D.: Machine learning and Presentation
+ - Elizaveta L. : Presentation and Github
+ - Jessica Z. : Github and Database
+ - Mohamad K.: Database and Machine Learning
+ - Beruchya D.: Machine learning and Presentation
 
 Our team will be 
 # Selected Topic & Reasoning
