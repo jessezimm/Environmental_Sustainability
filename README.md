@@ -12,4 +12,4 @@ The water_potability.csv file contains water quality metrics for 3276 different 
 
 # Machine Learning Model
 
-we are going to implement a water quality prediction using machine learning techniques. We will use the decision tree classifier model our model predicts that the water is safe to drink or not using parameters like Ph value, conductivity, hardness, etc. 
+We are going to implement a water quality prediction using machine learning techniques. We will use the decision tree classifier model to predicts that the water is safe to drink or not using parameters like Ph value, conductivity, hardness, etc. 
