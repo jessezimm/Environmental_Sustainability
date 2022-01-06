@@ -1,3 +1,4 @@
+![alt text](https://github.com/jessezimm/Environmental_Sustainability/blob/main/Pictures/WaterQuality.jpg)
 # Environmental Sustainability
 Environmental sustainability is one of the most pressing issues of our century. From climate change to pollution, major ills to the environment affect humanity and the biosphere. Given the urgency of action on environmental sustainability our group saw it fit to tackle a challenge using technology, particularly machine learning, to bring about insights in the area of environmental sustainability. Our insights will inform the world on water pollution and the suitability of drinking water. 
 
