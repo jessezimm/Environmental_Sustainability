@@ -1,19 +1,22 @@
 # Environmental Sustainability
+Environmental sustainability is one of the most pressing issues of our century. From climate change to pollution, major ills to the environment affect humanity and the biosphere. Given the urgency of action on environmental sustainability our group saw it fit to tackle a challenge using technology, particularly machine learning, to bring about insights in the area of environmental sustainability. Our insights will inform the world on water pollution and the suitability of drinking water. 
 
-# Team Communication Protocols
+## Team Communication Protocols
+Although each member will contribute to the overall flow of the machine learning exercise, our team assigned focused roles for the smooth completion of this project.
+Elizaveta L. : Presentation and Github
+Jessica Z. : Github and Database
+Mohamad K.: Database and Machine Learning
+Beruchya D.: Machine learning and Presentation
 
+Our team will be 
 # Selected Topic & Reasoning
-
-Access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection. This is important as a health and development issue at a national, regional and local level. In some regions, it has been shown that investments in water supply and sanitation can yield a net economic benefit, since the reductions in adverse health effects and health care costs outweigh the costs of undertaking the interventions.
+This project will seek to assess the potability of water resources samples conducted at over 3000 sites. This will contribute to an overall effort to encourage high standard drinking water for the health of people. This will also serve to ensure that water resources are safe for biodiversity such as plants and wildlife. All in all, this project will use a water quality lens to assess the health of water resources for public and environmental health purposes. 
 
 # Questions to Answer through Model
-
-We are going to implement a water quality prediction using machine learning techniques. We will use the decision tree classifier model to predicts that the water is safe to drink or not using parameters like Ph value, conductivity, hardness, solids, chloramines, sulfate, conductivity, organic_carbon, trihalomethanes, turbidity, and potability. 
 
 # Description of Source Data
 
 The water_potability.csv file contains water quality metrics for 3276 different water bodies.
 
 # Machine Learning Model
-
-
+A supervised machine learning model that predicts .... from feature varaibles including ....
