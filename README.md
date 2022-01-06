@@ -8,7 +8,7 @@ Although each member will contribute to the overall flow of the machine learning
  - Mohamad K.: Database and Machine Learning
  - Beruchya D.: Machine learning and Presentation
 
-Our team will be 
+Our team will be communicating regularly through Slack and Zoom to ensure that our project respects the prescribed deadlines and requirements.
 # Selected Topic & Reasoning
 This project will seek to assess the potability of water resources samples conducted at over 3000 sites. This will contribute to an overall effort to encourage high standard drinking water for the health of people. This will also serve to ensure that water resources are safe for biodiversity such as plants and wildlife. All in all, this project will use a water quality lens to assess the health of water resources for public and environmental health purposes. 
 
