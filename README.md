@@ -16,6 +16,8 @@ This project will seek to assess the potability of water resources samples condu
 
 # Questions to Answer through Model
 
+We are going to implement a water quality prediction using Decision Tree Classifier Model.  We will predicts that the water is safe to drink or not using  parameters like Ph value, conductivity, hardness, solids, chloramines, sulfate, Total Organic Carbon, trihalomethanes, turbidity, and potability. 
+
 # Description of Source Data
 
 The water_potability.csv file contains water quality metrics for 3276 different water bodies.
