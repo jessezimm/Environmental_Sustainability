@@ -16,7 +16,7 @@ This project will seek to assess the potability of water resources samples condu
 
 # Questions to Answer through Model
 
-We are going to implement a water quality prediction using machine learning techniques. In this technique, our model will predict that the water is safe to drink or not.
+We are going to implement a water quality prediction model using machine learning techniques. In this technique, our model will predict that the water is safe to drink or not.
 
 # Description of Source Data
 
@@ -35,4 +35,4 @@ We are using water_potability.csv file that contains water quality metrics for 3
 
 # Machine Learning Model
 
-Using Decision Tree Classifier Model supervised machine learning  we will predict if water safe to drink or not from feature varaibles including Ph value, conductivity, hardness, etc.
+Using Decision Tree Classifier Model supervised machine learning  we will predict if water is safe to drink or not from feature variables including pH value, conductivity, hardness, etc.
