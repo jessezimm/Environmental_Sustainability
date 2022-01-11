@@ -5,9 +5,9 @@ Environmental sustainability is one of the most pressing issues of our century. 
 ## Team Communication Protocols
 Although each member will contribute to the overall flow of the machine learning exercise, our team assigned focused roles for the smooth completion of this project.
  - Elizaveta L. : Presentation and Github
- - Jessica Z. : Github and Database
+ - Jessica Z. : Machine Learning and Github
  - Mohamad K.: Database and Machine Learning
- - Beruchya D.: Machine learning and Presentation
+ - Beruchya D.: Database and Presentation
 
 Our team will be communicating regularly through Slack and Zoom to ensure that our project respects the prescribed deadlines and requirements. Our team members have agreed to inform fellow team members on major changes before commiting these changes to the main branch. Consequently, our team has reserved branches for individual work related to the project.
 
