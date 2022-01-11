@@ -2,7 +2,7 @@
 # Environmental Sustainability
 Environmental sustainability is one of the most pressing issues of our century. From climate change to pollution, major ills to the environment affect humanity and the biosphere. Given the urgency of action on environmental sustainability our group saw it fit to tackle a challenge using technology, particularly machine learning, to bring about insights in the area of environmental sustainability. Our insights will inform the world on water pollution and the suitability of drinking water. 
 
-## Team Communication Protocols
+# Team Communication Protocols
 Although each member will contribute to the overall flow of the machine learning exercise, our team assigned focused roles for the smooth completion of this project.
  - Elizaveta L. : Presentation and Github
  - Jessica Z. : Machine Learning and Github
