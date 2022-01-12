@@ -22,8 +22,8 @@ create table water2 (
 	
 	select * from water1; 
 	select * from water2;
+	
 -- Joining the tables
--- Joining retirement_info and dept_emp tables
 select * from water1; 
 select water1.Index,
 water1.ph,
