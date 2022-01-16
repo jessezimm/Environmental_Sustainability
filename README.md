@@ -38,3 +38,7 @@ The database was created with Postgres using SQL to create a left join for the t
 # Machine Learning Model
 
 Using Decision Tree Classifier Model supervised machine learning  we will predict if water is safe to drink or not from feature variables including pH value, conductivity, hardness, etc.
+
+To clean the data, we filled any entries that were left as null with the mean of that column. After testing feature importance, we decided to use all features (ph, hardness, etc.) to determine if water is potable. All features will relatively close in importance so feature reduction did not seem reasonable. We used the train test split from the SK Learn Model Selection package. By stratifying on "y", it will preserve the proportion of the target potability as in the original dataset for the train and test datasets as well. 
+
+
