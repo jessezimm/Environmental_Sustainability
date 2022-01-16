@@ -37,8 +37,10 @@ The database was created with Postgres using SQL to create a left join for the t
 
 # Machine Learning Model
 
-Using Decision Tree Classifier Model supervised machine learning  we will predict if water is safe to drink or not from feature variables including pH value, conductivity, hardness, etc.
+Using the Balanced Random Forests Classifier Model, we will predict if water is safe to drink or not from feature variables including pH value, conductivity, hardness, etc. This model creates smaller, simpler decision trees based on a random subset of features. These smaller trees can be combined to make a strong learner with better decision-making power. This model is robust against overfitting because the smaller decision trees are trained on different pieces of data. However, all features are displaying similar importance in the model and thus it is difficult to eliminate features. 
 
 To clean the data, we filled any entries that were left as null with the mean of that column. After testing feature importance, we decided to use all features (ph, hardness, etc.) to determine if water is potable. All features will relatively close in importance so feature reduction did not seem reasonable. We used the train test split from the SK Learn Model Selection package. By stratifying on "y", it will preserve the proportion of the target potability as in the original dataset for the train and test datasets as well. 
+
+
 
 
