@@ -47,6 +47,7 @@ https://docs.google.com/presentation/d/1_37S769MIizYbzhzG8-pPeNbNSt5uGwYbGbQyf8t
 Our final Tableau dashboard containing interactive graphs can be found below:
 
 # Presentation
-
+Our final presentation can be found below:
+https://docs.google.com/presentation/d/1xWa6ygRF0Y8xlHQtO98mYD8q430M-nWSCejxq5FyqlU/edit#slide=id.p
 
 
