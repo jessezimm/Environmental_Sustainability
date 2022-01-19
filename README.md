@@ -41,8 +41,12 @@ Using the Balanced Random Forests Classifier Model, we will predict if water is 
 
 To clean the data, we filled any entries that were left as null with the mean of that column. After testing feature importance, we decided to use all features (ph, hardness, etc.) to determine if water is potable. All features will relatively close in importance so feature reduction did not seem reasonable. We used the train test split from the SK Learn Model Selection package. By stratifying on "y", it will preserve the proportion of the target potability as in the original dataset for the train and test datasets as well. 
 
-## Dashboard
-Our dashboard containing interactive graphs can be found below:
+# Dashboard
+Our dashboard outline can be found below:
 https://docs.google.com/presentation/d/1_37S769MIizYbzhzG8-pPeNbNSt5uGwYbGbQyf8t9hw/edit?usp=sharing 
+Our final Tableau dashboard containing interactive graphs can be found below:
+
+# Presentation
+
 
 
