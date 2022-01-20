@@ -44,7 +44,8 @@ To clean the data, we filled any entries that were left as null with the mean of
 # Dashboard
 Our dashboard outline can be found below:
 https://docs.google.com/presentation/d/1_37S769MIizYbzhzG8-pPeNbNSt5uGwYbGbQyf8t9hw/edit?usp=sharing 
-Our final Tableau dashboard containing interactive graphs can be found below:
+Our final Tableau story containing interactive graphs can be found below:
+https://public.tableau.com/app/profile/jessica.zimmerman/viz/DissectingPotability/DissectingPotability?publish=yes
 
 # Presentation
 Our final presentation can be found below:
