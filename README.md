@@ -28,7 +28,7 @@ We are using a water potability database consisting of two tables joined on the 
 4. Chloramines;
 5. Sulfate;
 6. Conductivity;
-7. Organic_carbon;
+7. Organic carbon;
 8. Trihalomethanes;
 9. Turbidity;
 10. Potability.
