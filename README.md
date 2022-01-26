@@ -22,6 +22,7 @@ We are going to implement a water quality prediction model using machine learnin
 
 We are using a water potability database consisting of two tables joined on the index number. The two tables (water_table_1.csv and water_table_2.csv) were processed to form a single file,  the water_potability.csv file, that contains water quality metrics for 3276 different water bodies:
 
+
 1. pH value;
 2. Hardness;
 3. Solids (Total dissolved solids - TDS);
