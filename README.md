@@ -35,7 +35,7 @@ We are using a water potability database consisting of two tables joined on the 
 9. Turbidity;
 10. Potability.
 
-The database was created with Postgres using SQL to create a left join for the two initial tables. With an engine created in Jupyter notebook to access Postgres, our data can be accessed and modeled as needed.  
+Our SQL database was created with Microsoft Azure and a left join was employed to combine the two initial tables. With an engine created in Jupyter notebook to access Azure, our data can be accessed and modeled as needed.  
 
 # Machine Learning Model
 
